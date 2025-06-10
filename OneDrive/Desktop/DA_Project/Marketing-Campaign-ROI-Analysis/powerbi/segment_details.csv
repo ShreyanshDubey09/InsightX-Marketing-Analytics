@@ -1,5 +1,0 @@
-segment_name,customer_count,avg_age,avg_recency,avg_frequency,avg_total_spent,total_revenue,avg_order_value,segment_description
-At Risk,3833,53.28,45.85,6.01,417.45,1600096.73,65.96,Previously valuable customers who haven't purchased recently
-Champions,4526,29.44,43.51,6.0,416.42,1884701.23,65.82,High-value customers with recent activity and frequent purchases
-Loyal Customers,1706,39.21,22.96,16.86,2538.96,4331460.18,150.92,Regular customers with consistent purchasing behavior
-Potential Loyalists,1935,38.61,191.19,2.85,167.14,323422.43,57.98,Recent customers with good engagement potential

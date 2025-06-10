@@ -1,9 +1,0 @@
-segment_name,test_group,campaign_version,emails_sent,total_clicks,click_rate,total_conversions,conversion_rate,total_revenue,total_ltv_increase,total_costs,roi_percent,cost_per_acquisition,revenue_per_click
-At Risk,A,Generic,1908,108,0.0566,22,0.0115,1744.87,0.0,38.16,4472.51,1.73,16.16
-At Risk,B,Targeted,1925,149,0.0774,28,0.0145,2442.13,3428.44,38.5,6243.19,1.38,16.39
-Champions,A,Generic,2296,227,0.0989,78,0.034,5756.17,0.0,45.92,12435.21,0.59,25.36
-Champions,B,Targeted,2230,305,0.1368,100,0.0448,7293.35,11938.31,44.6,16252.8,0.45,23.91
-Loyal Customers,A,Generic,871,62,0.0712,16,0.0184,2648.76,0.0,17.42,15105.28,1.09,42.72
-Loyal Customers,B,Targeted,835,82,0.0982,19,0.0228,3258.12,2337.69,16.7,19409.7,0.88,39.73
-Potential Loyalists,A,Generic,994,80,0.0805,17,0.0171,1252.06,0.0,19.88,6198.09,1.17,15.65
-Potential Loyalists,B,Targeted,941,100,0.1063,31,0.0329,2148.95,3883.74,18.82,11318.44,0.61,21.49
