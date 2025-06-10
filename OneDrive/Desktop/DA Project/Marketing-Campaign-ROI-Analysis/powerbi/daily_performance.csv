@@ -1,0 +1,489 @@
+date,segment_name,test_group,campaign_version,emails_sent,clicks,conversions,revenue,ctr,conversion_rate
+2024-11-01,At Risk,A,Generic,86,4,1,73.4,0.0465,0.25
+2024-11-01,At Risk,B,Targeted,79,6,1,156.21,0.0759,0.1667
+2024-11-01,Loyal Customers,A,Generic,132,8,1,95.64,0.0606,0.125
+2024-11-01,Loyal Customers,B,Targeted,121,12,3,212.77,0.0992,0.25
+2024-11-01,Potential Loyalists,A,Generic,103,6,1,79.95,0.0583,0.1667
+2024-11-01,Potential Loyalists,B,Targeted,110,8,2,151.16,0.0727,0.25
+2024-11-01,Champions,A,Generic,143,15,3,204.92,0.1049,0.2
+2024-11-01,Champions,B,Targeted,150,25,5,746.89,0.1667,0.2
+2024-11-02,At Risk,A,Generic,85,4,0,0.0,0.0471,0.0
+2024-11-02,At Risk,B,Targeted,104,8,1,79.4,0.0769,0.125
+2024-11-02,Loyal Customers,A,Generic,94,6,1,174.31,0.0638,0.1667
+2024-11-02,Loyal Customers,B,Targeted,115,12,2,340.66,0.1043,0.1667
+2024-11-02,Potential Loyalists,A,Generic,119,6,1,156.03,0.0504,0.1667
+2024-11-02,Potential Loyalists,B,Targeted,117,9,2,134.76,0.0769,0.2222
+2024-11-02,Champions,A,Generic,165,15,3,289.94,0.0909,0.2
+2024-11-02,Champions,B,Targeted,144,22,6,724.99,0.1528,0.2727
+2024-11-03,At Risk,A,Generic,77,4,1,165.65,0.0519,0.25
+2024-11-03,At Risk,B,Targeted,90,6,1,66.18,0.0667,0.1667
+2024-11-03,Loyal Customers,A,Generic,114,10,2,223.11,0.0877,0.2
+2024-11-03,Loyal Customers,B,Targeted,129,11,2,148.37,0.0853,0.1818
+2024-11-03,Potential Loyalists,A,Generic,129,9,2,341.1,0.0698,0.2222
+2024-11-03,Potential Loyalists,B,Targeted,111,12,2,133.02,0.1081,0.1667
+2024-11-03,Champions,A,Generic,139,15,4,204.17,0.1079,0.2667
+2024-11-03,Champions,B,Targeted,150,19,4,402.57,0.1267,0.2105
+2024-11-04,At Risk,A,Generic,110,5,1,104.54,0.0455,0.2
+2024-11-04,At Risk,B,Targeted,83,5,1,55.53,0.0602,0.2
+2024-11-04,Loyal Customers,A,Generic,123,7,1,186.24,0.0569,0.1429
+2024-11-04,Loyal Customers,B,Targeted,111,12,3,258.92,0.1081,0.25
+2024-11-04,Potential Loyalists,A,Generic,115,6,1,105.17,0.0522,0.1667
+2024-11-04,Potential Loyalists,B,Targeted,114,11,2,350.59,0.0965,0.1818
+2024-11-04,Champions,A,Generic,143,11,2,303.27,0.0769,0.1818
+2024-11-04,Champions,B,Targeted,139,17,4,432.04,0.1223,0.2353
+2024-11-05,At Risk,A,Generic,109,5,1,188.7,0.0459,0.2
+2024-11-05,At Risk,B,Targeted,103,8,2,266.56,0.0777,0.25
+2024-11-05,Loyal Customers,A,Generic,121,7,2,370.13,0.0579,0.2857
+2024-11-05,Loyal Customers,B,Targeted,124,12,3,553.7,0.0968,0.25
+2024-11-05,Potential Loyalists,A,Generic,125,8,1,74.24,0.064,0.125
+2024-11-05,Potential Loyalists,B,Targeted,126,9,1,149.53,0.0714,0.1111
+2024-11-05,Champions,A,Generic,152,16,3,470.48,0.1053,0.1875
+2024-11-05,Champions,B,Targeted,140,22,5,886.92,0.1571,0.2273
+2024-11-06,At Risk,A,Generic,94,4,0,0.0,0.0426,0.0
+2024-11-06,At Risk,B,Targeted,87,6,1,125.4,0.069,0.1667
+2024-11-06,Loyal Customers,A,Generic,122,8,2,184.23,0.0656,0.25
+2024-11-06,Loyal Customers,B,Targeted,116,15,3,584.99,0.1293,0.2
+2024-11-06,Potential Loyalists,A,Generic,103,7,1,75.42,0.068,0.1429
+2024-11-06,Potential Loyalists,B,Targeted,112,11,2,129.15,0.0982,0.1818
+2024-11-06,Champions,A,Generic,135,15,4,618.21,0.1111,0.2667
+2024-11-06,Champions,B,Targeted,157,21,5,857.59,0.1338,0.2381
+2024-11-07,At Risk,A,Generic,90,5,1,155.3,0.0556,0.2
+2024-11-07,At Risk,B,Targeted,85,5,1,55.39,0.0588,0.2
+2024-11-07,Loyal Customers,A,Generic,119,8,2,109.15,0.0672,0.25
+2024-11-07,Loyal Customers,B,Targeted,115,12,3,247.12,0.1043,0.25
+2024-11-07,Potential Loyalists,A,Generic,114,6,1,131.1,0.0526,0.1667
+2024-11-07,Potential Loyalists,B,Targeted,114,13,3,295.33,0.114,0.2308
+2024-11-07,Champions,A,Generic,161,16,3,161.41,0.0994,0.1875
+2024-11-07,Champions,B,Targeted,157,20,4,350.15,0.1274,0.2
+2024-11-08,At Risk,A,Generic,91,4,0,0.0,0.044,0.0
+2024-11-08,At Risk,B,Targeted,97,7,1,87.16,0.0722,0.1429
+2024-11-08,Loyal Customers,A,Generic,115,7,1,56.9,0.0609,0.1429
+2024-11-08,Loyal Customers,B,Targeted,127,11,2,242.04,0.0866,0.1818
+2024-11-08,Potential Loyalists,A,Generic,99,6,1,145.26,0.0606,0.1667
+2024-11-08,Potential Loyalists,B,Targeted,85,8,2,356.95,0.0941,0.25
+2024-11-08,Champions,A,Generic,156,13,3,161.93,0.0833,0.2308
+2024-11-08,Champions,B,Targeted,153,23,5,732.47,0.1503,0.2174
+2024-11-09,At Risk,A,Generic,89,5,1,194.18,0.0562,0.2
+2024-11-09,At Risk,B,Targeted,105,6,1,52.73,0.0571,0.1667
+2024-11-09,Loyal Customers,A,Generic,103,6,1,176.73,0.0583,0.1667
+2024-11-09,Loyal Customers,B,Targeted,113,13,3,544.86,0.115,0.2308
+2024-11-09,Potential Loyalists,A,Generic,117,7,1,162.59,0.0598,0.1429
+2024-11-09,Potential Loyalists,B,Targeted,107,11,2,379.23,0.1028,0.1818
+2024-11-09,Champions,A,Generic,165,18,4,261.87,0.1091,0.2222
+2024-11-09,Champions,B,Targeted,169,28,6,1105.97,0.1657,0.2143
+2024-11-10,At Risk,A,Generic,87,5,1,97.9,0.0575,0.2
+2024-11-10,At Risk,B,Targeted,92,6,1,99.3,0.0652,0.1667
+2024-11-10,Loyal Customers,A,Generic,126,10,2,127.36,0.0794,0.2
+2024-11-10,Loyal Customers,B,Targeted,120,13,3,549.47,0.1083,0.2308
+2024-11-10,Potential Loyalists,A,Generic,105,6,1,142.73,0.0571,0.1667
+2024-11-10,Potential Loyalists,B,Targeted,94,9,1,173.28,0.0957,0.1111
+2024-11-10,Champions,A,Generic,158,13,3,318.42,0.0823,0.2308
+2024-11-10,Champions,B,Targeted,145,25,7,1141.05,0.1724,0.28
+2024-11-11,At Risk,A,Generic,86,4,1,113.63,0.0465,0.25
+2024-11-11,At Risk,B,Targeted,105,7,1,120.3,0.0667,0.1429
+2024-11-11,Loyal Customers,A,Generic,97,6,1,161.91,0.0619,0.1667
+2024-11-11,Loyal Customers,B,Targeted,116,14,3,583.45,0.1207,0.2143
+2024-11-11,Potential Loyalists,A,Generic,91,7,1,144.41,0.0769,0.1429
+2024-11-11,Potential Loyalists,B,Targeted,116,11,2,370.35,0.0948,0.1818
+2024-11-11,Champions,A,Generic,121,14,4,473.39,0.1157,0.2857
+2024-11-11,Champions,B,Targeted,154,19,4,412.01,0.1234,0.2105
+2024-11-12,At Risk,A,Generic,92,5,1,154.72,0.0543,0.2
+2024-11-12,At Risk,B,Targeted,91,7,1,74.39,0.0769,0.1429
+2024-11-12,Loyal Customers,A,Generic,138,12,3,426.04,0.087,0.25
+2024-11-12,Loyal Customers,B,Targeted,117,14,2,107.91,0.1197,0.1429
+2024-11-12,Potential Loyalists,A,Generic,106,8,1,139.12,0.0755,0.125
+2024-11-12,Potential Loyalists,B,Targeted,106,11,3,360.91,0.1038,0.2727
+2024-11-12,Champions,A,Generic,147,12,3,515.81,0.0816,0.25
+2024-11-12,Champions,B,Targeted,152,26,7,609.72,0.1711,0.2692
+2024-11-13,At Risk,A,Generic,89,5,1,84.3,0.0562,0.2
+2024-11-13,At Risk,B,Targeted,95,6,1,150.74,0.0632,0.1667
+2024-11-13,Loyal Customers,A,Generic,121,9,2,265.57,0.0744,0.2222
+2024-11-13,Loyal Customers,B,Targeted,122,12,2,108.63,0.0984,0.1667
+2024-11-13,Potential Loyalists,A,Generic,118,8,1,70.46,0.0678,0.125
+2024-11-13,Potential Loyalists,B,Targeted,113,10,2,204.48,0.0885,0.2
+2024-11-13,Champions,A,Generic,150,14,3,538.06,0.0933,0.2143
+2024-11-13,Champions,B,Targeted,177,30,7,621.16,0.1695,0.2333
+2024-11-14,At Risk,A,Generic,89,4,0,0.0,0.0449,0.0
+2024-11-14,At Risk,B,Targeted,82,5,1,72.79,0.061,0.2
+2024-11-14,Loyal Customers,A,Generic,106,7,1,184.52,0.066,0.1429
+2024-11-14,Loyal Customers,B,Targeted,119,11,2,112.26,0.0924,0.1818
+2024-11-14,Potential Loyalists,A,Generic,98,5,1,68.1,0.051,0.2
+2024-11-14,Potential Loyalists,B,Targeted,109,10,2,307.12,0.0917,0.2
+2024-11-14,Champions,A,Generic,155,18,5,295.81,0.1161,0.2778
+2024-11-14,Champions,B,Targeted,142,23,5,407.01,0.162,0.2174
+2024-11-15,At Risk,A,Generic,86,4,0,0.0,0.0465,0.0
+2024-11-15,At Risk,B,Targeted,97,6,1,184.28,0.0619,0.1667
+2024-11-15,Loyal Customers,A,Generic,120,7,1,129.89,0.0583,0.1429
+2024-11-15,Loyal Customers,B,Targeted,111,11,2,196.62,0.0991,0.1818
+2024-11-15,Potential Loyalists,A,Generic,100,5,1,139.04,0.05,0.2
+2024-11-15,Potential Loyalists,B,Targeted,116,11,2,261.13,0.0948,0.1818
+2024-11-15,Champions,A,Generic,153,15,3,277.7,0.098,0.2
+2024-11-15,Champions,B,Targeted,145,22,5,989.89,0.1517,0.2273
+2024-11-16,At Risk,A,Generic,93,3,0,0.0,0.0323,0.0
+2024-11-16,At Risk,B,Targeted,79,5,1,184.51,0.0633,0.2
+2024-11-16,Loyal Customers,A,Generic,101,7,2,133.61,0.0693,0.2857
+2024-11-16,Loyal Customers,B,Targeted,117,14,3,266.06,0.1197,0.2143
+2024-11-16,Potential Loyalists,A,Generic,98,7,1,135.74,0.0714,0.1429
+2024-11-16,Potential Loyalists,B,Targeted,103,8,1,113.82,0.0777,0.125
+2024-11-16,Champions,A,Generic,150,12,3,279.88,0.08,0.25
+2024-11-16,Champions,B,Targeted,153,22,5,288.87,0.1438,0.2273
+2024-11-17,At Risk,A,Generic,85,3,0,0.0,0.0353,0.0
+2024-11-17,At Risk,B,Targeted,99,7,1,139.35,0.0707,0.1429
+2024-11-17,Loyal Customers,A,Generic,119,8,2,349.19,0.0672,0.25
+2024-11-17,Loyal Customers,B,Targeted,151,18,5,385.92,0.1192,0.2778
+2024-11-17,Potential Loyalists,A,Generic,90,6,1,70.97,0.0667,0.1667
+2024-11-17,Potential Loyalists,B,Targeted,120,10,2,344.37,0.0833,0.2
+2024-11-17,Champions,A,Generic,156,15,4,435.47,0.0962,0.2667
+2024-11-17,Champions,B,Targeted,163,22,5,476.03,0.135,0.2273
+2024-11-18,At Risk,A,Generic,97,4,1,107.58,0.0412,0.25
+2024-11-18,At Risk,B,Targeted,91,7,1,190.97,0.0769,0.1429
+2024-11-18,Loyal Customers,A,Generic,124,8,2,286.02,0.0645,0.25
+2024-11-18,Loyal Customers,B,Targeted,121,14,3,290.27,0.1157,0.2143
+2024-11-18,Potential Loyalists,A,Generic,102,5,1,164.37,0.049,0.2
+2024-11-18,Potential Loyalists,B,Targeted,124,13,2,353.94,0.1048,0.1538
+2024-11-18,Champions,A,Generic,134,15,3,253.16,0.1119,0.2
+2024-11-18,Champions,B,Targeted,158,24,6,788.45,0.1519,0.25
+2024-11-19,At Risk,A,Generic,83,3,0,0.0,0.0361,0.0
+2024-11-19,At Risk,B,Targeted,87,7,1,137.93,0.0805,0.1429
+2024-11-19,Loyal Customers,A,Generic,120,7,2,379.64,0.0583,0.2857
+2024-11-19,Loyal Customers,B,Targeted,122,15,4,291.52,0.123,0.2667
+2024-11-19,Potential Loyalists,A,Generic,112,7,1,190.16,0.0625,0.1429
+2024-11-19,Potential Loyalists,B,Targeted,129,10,2,351.67,0.0775,0.2
+2024-11-19,Champions,A,Generic,134,15,3,416.07,0.1119,0.2
+2024-11-19,Champions,B,Targeted,146,20,5,253.47,0.137,0.25
+2024-11-20,At Risk,A,Generic,85,4,1,101.95,0.0471,0.25
+2024-11-20,At Risk,B,Targeted,86,6,1,117.87,0.0698,0.1667
+2024-11-20,Loyal Customers,A,Generic,106,8,1,187.23,0.0755,0.125
+2024-11-20,Loyal Customers,B,Targeted,115,13,2,299.06,0.113,0.1538
+2024-11-20,Potential Loyalists,A,Generic,97,5,1,125.33,0.0515,0.2
+2024-11-20,Potential Loyalists,B,Targeted,113,12,2,369.42,0.1062,0.1667
+2024-11-20,Champions,A,Generic,138,11,2,269.45,0.0797,0.1818
+2024-11-20,Champions,B,Targeted,126,18,4,464.46,0.1429,0.2222
+2024-11-21,At Risk,A,Generic,87,3,0,0.0,0.0345,0.0
+2024-11-21,At Risk,B,Targeted,110,7,1,111.31,0.0636,0.1429
+2024-11-21,Loyal Customers,A,Generic,127,7,1,84.66,0.0551,0.1429
+2024-11-21,Loyal Customers,B,Targeted,126,11,3,230.35,0.0873,0.2727
+2024-11-21,Potential Loyalists,A,Generic,115,6,1,158.34,0.0522,0.1667
+2024-11-21,Potential Loyalists,B,Targeted,123,11,2,161.5,0.0894,0.1818
+2024-11-21,Champions,A,Generic,142,11,2,162.37,0.0775,0.1818
+2024-11-21,Champions,B,Targeted,153,26,7,708.91,0.1699,0.2692
+2024-11-22,At Risk,A,Generic,83,4,0,0.0,0.0482,0.0
+2024-11-22,At Risk,B,Targeted,87,6,1,192.27,0.069,0.1667
+2024-11-22,Loyal Customers,A,Generic,129,11,2,368.37,0.0853,0.1818
+2024-11-22,Loyal Customers,B,Targeted,130,11,2,262.49,0.0846,0.1818
+2024-11-22,Potential Loyalists,A,Generic,114,6,1,197.66,0.0526,0.1667
+2024-11-22,Potential Loyalists,B,Targeted,111,9,1,187.14,0.0811,0.1111
+2024-11-22,Champions,A,Generic,133,12,3,443.14,0.0902,0.25
+2024-11-22,Champions,B,Targeted,163,19,4,740.01,0.1166,0.2105
+2024-11-23,At Risk,A,Generic,103,5,1,76.31,0.0485,0.2
+2024-11-23,At Risk,B,Targeted,106,7,1,57.04,0.066,0.1429
+2024-11-23,Loyal Customers,A,Generic,108,6,1,86.8,0.0556,0.1667
+2024-11-23,Loyal Customers,B,Targeted,116,12,3,283.7,0.1034,0.25
+2024-11-23,Potential Loyalists,A,Generic,112,8,2,319.77,0.0714,0.25
+2024-11-23,Potential Loyalists,B,Targeted,100,8,2,115.43,0.08,0.25
+2024-11-23,Champions,A,Generic,150,14,3,197.97,0.0933,0.2143
+2024-11-23,Champions,B,Targeted,128,18,4,460.9,0.1406,0.2222
+2024-11-24,At Risk,A,Generic,82,4,1,90.82,0.0488,0.25
+2024-11-24,At Risk,B,Targeted,92,5,1,70.52,0.0543,0.2
+2024-11-24,Loyal Customers,A,Generic,145,9,2,361.88,0.0621,0.2222
+2024-11-24,Loyal Customers,B,Targeted,128,15,4,709.52,0.1172,0.2667
+2024-11-24,Potential Loyalists,A,Generic,102,6,1,191.61,0.0588,0.1667
+2024-11-24,Potential Loyalists,B,Targeted,129,13,3,165.28,0.1008,0.2308
+2024-11-24,Champions,A,Generic,157,18,5,958.2,0.1146,0.2778
+2024-11-24,Champions,B,Targeted,149,25,5,871.69,0.1678,0.2
+2024-11-25,At Risk,A,Generic,82,3,0,0.0,0.0366,0.0
+2024-11-25,At Risk,B,Targeted,96,6,1,168.61,0.0625,0.1667
+2024-11-25,Loyal Customers,A,Generic,114,10,2,169.89,0.0877,0.2
+2024-11-25,Loyal Customers,B,Targeted,121,14,4,410.43,0.1157,0.2857
+2024-11-25,Potential Loyalists,A,Generic,119,8,2,362.1,0.0672,0.25
+2024-11-25,Potential Loyalists,B,Targeted,107,11,2,133.14,0.1028,0.1818
+2024-11-25,Champions,A,Generic,145,13,2,112.63,0.0897,0.1538
+2024-11-25,Champions,B,Targeted,147,23,5,962.47,0.1565,0.2174
+2024-11-26,At Risk,A,Generic,99,4,1,191.71,0.0404,0.25
+2024-11-26,At Risk,B,Targeted,89,5,1,84.75,0.0562,0.2
+2024-11-26,Loyal Customers,A,Generic,143,11,2,169.2,0.0769,0.1818
+2024-11-26,Loyal Customers,B,Targeted,108,10,2,205.04,0.0926,0.2
+2024-11-26,Potential Loyalists,A,Generic,107,7,1,172.37,0.0654,0.1429
+2024-11-26,Potential Loyalists,B,Targeted,101,10,2,274.03,0.099,0.2
+2024-11-26,Champions,A,Generic,130,12,2,366.62,0.0923,0.1667
+2024-11-26,Champions,B,Targeted,162,24,5,556.34,0.1481,0.2083
+2024-11-27,At Risk,A,Generic,86,4,0,0.0,0.0465,0.0
+2024-11-27,At Risk,B,Targeted,82,5,1,124.27,0.061,0.2
+2024-11-27,Loyal Customers,A,Generic,119,10,2,303.4,0.084,0.2
+2024-11-27,Loyal Customers,B,Targeted,122,15,4,595.07,0.123,0.2667
+2024-11-27,Potential Loyalists,A,Generic,122,8,2,309.24,0.0656,0.25
+2024-11-27,Potential Loyalists,B,Targeted,116,12,2,364.26,0.1034,0.1667
+2024-11-27,Champions,A,Generic,166,19,4,401.07,0.1145,0.2105
+2024-11-27,Champions,B,Targeted,159,26,7,882.84,0.1635,0.2692
+2024-11-28,At Risk,A,Generic,94,5,1,166.98,0.0532,0.2
+2024-11-28,At Risk,B,Targeted,76,5,1,101.28,0.0658,0.2
+2024-11-28,Loyal Customers,A,Generic,124,7,2,306.37,0.0565,0.2857
+2024-11-28,Loyal Customers,B,Targeted,99,11,2,274.65,0.1111,0.1818
+2024-11-28,Potential Loyalists,A,Generic,105,5,1,196.02,0.0476,0.2
+2024-11-28,Potential Loyalists,B,Targeted,96,7,1,98.54,0.0729,0.1429
+2024-11-28,Champions,A,Generic,150,16,3,273.13,0.1067,0.1875
+2024-11-28,Champions,B,Targeted,148,24,6,498.69,0.1622,0.25
+2024-11-29,At Risk,A,Generic,74,4,0,0.0,0.0541,0.0
+2024-11-29,At Risk,B,Targeted,79,6,1,145.78,0.0759,0.1667
+2024-11-29,Loyal Customers,A,Generic,117,10,2,368.23,0.0855,0.2
+2024-11-29,Loyal Customers,B,Targeted,111,9,2,210.56,0.0811,0.2222
+2024-11-29,Potential Loyalists,A,Generic,123,9,1,180.29,0.0732,0.1111
+2024-11-29,Potential Loyalists,B,Targeted,119,13,3,431.8,0.1092,0.2308
+2024-11-29,Champions,A,Generic,134,15,3,508.44,0.1119,0.2
+2024-11-29,Champions,B,Targeted,149,18,4,458.18,0.1208,0.2222
+2024-11-30,At Risk,A,Generic,81,3,0,0.0,0.037,0.0
+2024-11-30,At Risk,B,Targeted,99,7,1,60.87,0.0707,0.1429
+2024-11-30,Loyal Customers,A,Generic,116,9,2,308.49,0.0776,0.2222
+2024-11-30,Loyal Customers,B,Targeted,134,12,2,131.48,0.0896,0.1667
+2024-11-30,Potential Loyalists,A,Generic,97,6,1,133.95,0.0619,0.1667
+2024-11-30,Potential Loyalists,B,Targeted,110,10,2,123.57,0.0909,0.2
+2024-11-30,Champions,A,Generic,146,15,4,680.35,0.1027,0.2667
+2024-11-30,Champions,B,Targeted,138,17,4,623.89,0.1232,0.2353
+2024-12-01,At Risk,A,Generic,69,3,0,0.0,0.0435,0.0
+2024-12-01,At Risk,B,Targeted,99,8,1,184.22,0.0808,0.125
+2024-12-01,Loyal Customers,A,Generic,121,9,2,257.92,0.0744,0.2222
+2024-12-01,Loyal Customers,B,Targeted,128,11,2,147.86,0.0859,0.1818
+2024-12-01,Potential Loyalists,A,Generic,124,10,2,154.64,0.0806,0.2
+2024-12-01,Potential Loyalists,B,Targeted,120,11,2,315.76,0.0917,0.1818
+2024-12-01,Champions,A,Generic,138,11,2,177.3,0.0797,0.1818
+2024-12-01,Champions,B,Targeted,149,23,6,682.94,0.1544,0.2609
+2024-12-02,At Risk,A,Generic,86,5,1,180.05,0.0581,0.2
+2024-12-02,At Risk,B,Targeted,92,7,1,181.01,0.0761,0.1429
+2024-12-02,Loyal Customers,A,Generic,137,9,2,373.71,0.0657,0.2222
+2024-12-02,Loyal Customers,B,Targeted,110,12,3,209.21,0.1091,0.25
+2024-12-02,Potential Loyalists,A,Generic,99,8,1,178.16,0.0808,0.125
+2024-12-02,Potential Loyalists,B,Targeted,110,12,2,254.45,0.1091,0.1667
+2024-12-02,Champions,A,Generic,145,12,2,390.82,0.0828,0.1667
+2024-12-02,Champions,B,Targeted,141,19,5,348.16,0.1348,0.2632
+2024-12-03,At Risk,A,Generic,82,3,0,0.0,0.0366,0.0
+2024-12-03,At Risk,B,Targeted,100,6,1,156.02,0.06,0.1667
+2024-12-03,Loyal Customers,A,Generic,108,6,1,149.57,0.0556,0.1667
+2024-12-03,Loyal Customers,B,Targeted,119,14,3,540.72,0.1176,0.2143
+2024-12-03,Potential Loyalists,A,Generic,100,6,1,129.68,0.06,0.1667
+2024-12-03,Potential Loyalists,B,Targeted,131,10,2,380.16,0.0763,0.2
+2024-12-03,Champions,A,Generic,143,11,2,395.99,0.0769,0.1818
+2024-12-03,Champions,B,Targeted,184,32,8,1441.5,0.1739,0.25
+2024-12-04,At Risk,A,Generic,89,4,1,70.95,0.0449,0.25
+2024-12-04,At Risk,B,Targeted,96,7,2,128.17,0.0729,0.2857
+2024-12-04,Loyal Customers,A,Generic,126,11,2,307.79,0.0873,0.1818
+2024-12-04,Loyal Customers,B,Targeted,126,14,4,542.37,0.1111,0.2857
+2024-12-04,Potential Loyalists,A,Generic,116,6,1,109.08,0.0517,0.1667
+2024-12-04,Potential Loyalists,B,Targeted,115,12,3,171.7,0.1043,0.25
+2024-12-04,Champions,A,Generic,166,17,4,727.11,0.1024,0.2353
+2024-12-04,Champions,B,Targeted,147,23,6,986.06,0.1565,0.2609
+2024-12-05,At Risk,A,Generic,99,5,1,131.67,0.0505,0.2
+2024-12-05,At Risk,B,Targeted,86,6,1,117.3,0.0698,0.1667
+2024-12-05,Loyal Customers,A,Generic,111,7,1,140.52,0.0631,0.1429
+2024-12-05,Loyal Customers,B,Targeted,125,13,3,538.5,0.104,0.2308
+2024-12-05,Potential Loyalists,A,Generic,111,6,1,107.03,0.0541,0.1667
+2024-12-05,Potential Loyalists,B,Targeted,107,10,2,329.46,0.0935,0.2
+2024-12-05,Champions,A,Generic,162,19,3,238.1,0.1173,0.1579
+2024-12-05,Champions,B,Targeted,168,29,5,950.83,0.1726,0.1724
+2024-12-06,At Risk,A,Generic,86,4,0,0.0,0.0465,0.0
+2024-12-06,At Risk,B,Targeted,84,6,1,141.55,0.0714,0.1667
+2024-12-06,Loyal Customers,A,Generic,127,9,1,77.17,0.0709,0.1111
+2024-12-06,Loyal Customers,B,Targeted,126,14,3,198.09,0.1111,0.2143
+2024-12-06,Potential Loyalists,A,Generic,112,9,2,341.8,0.0804,0.2222
+2024-12-06,Potential Loyalists,B,Targeted,111,11,3,420.73,0.0991,0.2727
+2024-12-06,Champions,A,Generic,140,14,3,527.94,0.1,0.2143
+2024-12-06,Champions,B,Targeted,169,22,6,547.33,0.1302,0.2727
+2024-12-07,At Risk,A,Generic,100,5,1,143.58,0.05,0.2
+2024-12-07,At Risk,B,Targeted,89,5,1,179.42,0.0562,0.2
+2024-12-07,Loyal Customers,A,Generic,110,6,1,141.06,0.0545,0.1667
+2024-12-07,Loyal Customers,B,Targeted,121,12,3,373.55,0.0992,0.25
+2024-12-07,Potential Loyalists,A,Generic,116,7,1,153.87,0.0603,0.1429
+2024-12-07,Potential Loyalists,B,Targeted,94,9,2,123.83,0.0957,0.2222
+2024-12-07,Champions,A,Generic,130,11,2,168.0,0.0846,0.1818
+2024-12-07,Champions,B,Targeted,145,21,4,680.21,0.1448,0.1905
+2024-12-08,At Risk,A,Generic,82,4,1,129.94,0.0488,0.25
+2024-12-08,At Risk,B,Targeted,85,6,1,149.28,0.0706,0.1667
+2024-12-08,Loyal Customers,A,Generic,122,9,1,134.34,0.0738,0.1111
+2024-12-08,Loyal Customers,B,Targeted,147,17,3,391.12,0.1156,0.1765
+2024-12-08,Potential Loyalists,A,Generic,94,7,1,149.74,0.0745,0.1429
+2024-12-08,Potential Loyalists,B,Targeted,101,8,2,378.1,0.0792,0.25
+2024-12-08,Champions,A,Generic,151,15,3,190.11,0.0993,0.2
+2024-12-08,Champions,B,Targeted,160,26,7,1094.18,0.1625,0.2692
+2024-12-09,At Risk,A,Generic,83,3,0,0.0,0.0361,0.0
+2024-12-09,At Risk,B,Targeted,84,6,1,127.35,0.0714,0.1667
+2024-12-09,Loyal Customers,A,Generic,139,12,3,243.83,0.0863,0.25
+2024-12-09,Loyal Customers,B,Targeted,140,17,4,726.78,0.1214,0.2353
+2024-12-09,Potential Loyalists,A,Generic,124,9,2,124.28,0.0726,0.2222
+2024-12-09,Potential Loyalists,B,Targeted,107,11,2,392.68,0.1028,0.1818
+2024-12-09,Champions,A,Generic,155,13,3,565.24,0.0839,0.2308
+2024-12-09,Champions,B,Targeted,149,24,5,626.92,0.1611,0.2083
+2024-12-10,At Risk,A,Generic,87,4,0,0.0,0.046,0.0
+2024-12-10,At Risk,B,Targeted,91,6,1,125.92,0.0659,0.1667
+2024-12-10,Loyal Customers,A,Generic,118,9,1,142.94,0.0763,0.1111
+2024-12-10,Loyal Customers,B,Targeted,125,11,3,356.91,0.088,0.2727
+2024-12-10,Potential Loyalists,A,Generic,88,7,1,71.34,0.0795,0.1429
+2024-12-10,Potential Loyalists,B,Targeted,96,7,1,59.34,0.0729,0.1429
+2024-12-10,Champions,A,Generic,162,15,3,387.17,0.0926,0.2
+2024-12-10,Champions,B,Targeted,147,25,6,475.16,0.1701,0.24
+2024-12-11,At Risk,A,Generic,86,4,1,165.4,0.0465,0.25
+2024-12-11,At Risk,B,Targeted,89,5,1,70.57,0.0562,0.2
+2024-12-11,Loyal Customers,A,Generic,121,7,1,196.38,0.0579,0.1429
+2024-12-11,Loyal Customers,B,Targeted,120,13,3,529.96,0.1083,0.2308
+2024-12-11,Potential Loyalists,A,Generic,94,5,1,160.6,0.0532,0.2
+2024-12-11,Potential Loyalists,B,Targeted,109,10,2,335.5,0.0917,0.2
+2024-12-11,Champions,A,Generic,161,17,4,352.8,0.1056,0.2353
+2024-12-11,Champions,B,Targeted,164,28,6,873.48,0.1707,0.2143
+2024-12-12,At Risk,A,Generic,94,5,1,60.0,0.0532,0.2
+2024-12-12,At Risk,B,Targeted,90,7,1,152.03,0.0778,0.1429
+2024-12-12,Loyal Customers,A,Generic,92,7,1,60.69,0.0761,0.1429
+2024-12-12,Loyal Customers,B,Targeted,128,13,3,498.59,0.1016,0.2308
+2024-12-12,Potential Loyalists,A,Generic,115,6,1,149.05,0.0522,0.1667
+2024-12-12,Potential Loyalists,B,Targeted,119,9,1,195.18,0.0756,0.1111
+2024-12-12,Champions,A,Generic,142,15,3,242.56,0.1056,0.2
+2024-12-12,Champions,B,Targeted,133,21,5,647.73,0.1579,0.2381
+2024-12-13,At Risk,A,Generic,99,6,1,137.36,0.0606,0.1667
+2024-12-13,At Risk,B,Targeted,97,7,1,100.74,0.0722,0.1429
+2024-12-13,Loyal Customers,A,Generic,140,10,2,231.82,0.0714,0.2
+2024-12-13,Loyal Customers,B,Targeted,124,12,2,159.24,0.0968,0.1667
+2024-12-13,Potential Loyalists,A,Generic,125,7,1,179.21,0.056,0.1429
+2024-12-13,Potential Loyalists,B,Targeted,102,9,2,318.55,0.0882,0.2222
+2024-12-13,Champions,A,Generic,161,14,3,593.1,0.087,0.2143
+2024-12-13,Champions,B,Targeted,174,22,4,635.59,0.1264,0.1818
+2024-12-14,At Risk,A,Generic,100,5,1,159.92,0.05,0.2
+2024-12-14,At Risk,B,Targeted,91,6,1,134.75,0.0659,0.1667
+2024-12-14,Loyal Customers,A,Generic,126,10,2,148.02,0.0794,0.2
+2024-12-14,Loyal Customers,B,Targeted,119,11,2,397.54,0.0924,0.1818
+2024-12-14,Potential Loyalists,A,Generic,94,7,1,133.26,0.0745,0.1429
+2024-12-14,Potential Loyalists,B,Targeted,117,10,2,335.14,0.0855,0.2
+2024-12-14,Champions,A,Generic,152,17,3,485.58,0.1118,0.1765
+2024-12-14,Champions,B,Targeted,145,18,4,725.99,0.1241,0.2222
+2024-12-15,At Risk,A,Generic,89,5,1,108.73,0.0562,0.2
+2024-12-15,At Risk,B,Targeted,88,5,1,103.32,0.0568,0.2
+2024-12-15,Loyal Customers,A,Generic,130,10,2,292.7,0.0769,0.2
+2024-12-15,Loyal Customers,B,Targeted,99,11,2,281.05,0.1111,0.1818
+2024-12-15,Potential Loyalists,A,Generic,115,7,1,124.74,0.0609,0.1429
+2024-12-15,Potential Loyalists,B,Targeted,91,8,2,312.3,0.0879,0.25
+2024-12-15,Champions,A,Generic,161,16,3,297.69,0.0994,0.1875
+2024-12-15,Champions,B,Targeted,148,19,4,641.4,0.1284,0.2105
+2024-12-16,At Risk,A,Generic,94,5,1,67.75,0.0532,0.2
+2024-12-16,At Risk,B,Targeted,87,6,1,138.17,0.069,0.1667
+2024-12-16,Loyal Customers,A,Generic,109,7,1,53.63,0.0642,0.1429
+2024-12-16,Loyal Customers,B,Targeted,132,14,3,573.31,0.1061,0.2143
+2024-12-16,Potential Loyalists,A,Generic,102,7,1,77.92,0.0686,0.1429
+2024-12-16,Potential Loyalists,B,Targeted,120,11,2,124.18,0.0917,0.1818
+2024-12-16,Champions,A,Generic,158,15,4,659.31,0.0949,0.2667
+2024-12-16,Champions,B,Targeted,136,17,4,594.17,0.125,0.2353
+2024-12-17,At Risk,A,Generic,113,4,0,0.0,0.0354,0.0
+2024-12-17,At Risk,B,Targeted,83,6,1,166.51,0.0723,0.1667
+2024-12-17,Loyal Customers,A,Generic,99,6,1,185.97,0.0606,0.1667
+2024-12-17,Loyal Customers,B,Targeted,106,11,2,369.95,0.1038,0.1818
+2024-12-17,Potential Loyalists,A,Generic,131,8,1,159.62,0.0611,0.125
+2024-12-17,Potential Loyalists,B,Targeted,115,11,2,391.6,0.0957,0.1818
+2024-12-17,Champions,A,Generic,154,13,2,167.6,0.0844,0.1538
+2024-12-17,Champions,B,Targeted,141,21,5,336.08,0.1489,0.2381
+2024-12-18,At Risk,A,Generic,102,4,1,131.53,0.0392,0.25
+2024-12-18,At Risk,B,Targeted,74,5,1,191.85,0.0676,0.2
+2024-12-18,Loyal Customers,A,Generic,133,10,2,295.29,0.0752,0.2
+2024-12-18,Loyal Customers,B,Targeted,121,13,3,356.66,0.1074,0.2308
+2024-12-18,Potential Loyalists,A,Generic,100,5,1,163.51,0.05,0.2
+2024-12-18,Potential Loyalists,B,Targeted,111,12,3,541.76,0.1081,0.25
+2024-12-18,Champions,A,Generic,140,17,4,216.3,0.1214,0.2353
+2024-12-18,Champions,B,Targeted,126,21,5,623.36,0.1667,0.2381
+2024-12-19,At Risk,A,Generic,76,4,0,0.0,0.0526,0.0
+2024-12-19,At Risk,B,Targeted,116,8,1,168.93,0.069,0.125
+2024-12-19,Loyal Customers,A,Generic,122,10,2,374.53,0.082,0.2
+2024-12-19,Loyal Customers,B,Targeted,121,14,3,292.54,0.1157,0.2143
+2024-12-19,Potential Loyalists,A,Generic,97,5,1,148.14,0.0515,0.2
+2024-12-19,Potential Loyalists,B,Targeted,98,10,2,364.72,0.102,0.2
+2024-12-19,Champions,A,Generic,162,19,4,790.47,0.1173,0.2105
+2024-12-19,Champions,B,Targeted,156,19,5,570.62,0.1218,0.2632
+2024-12-20,At Risk,A,Generic,79,4,1,157.9,0.0506,0.25
+2024-12-20,At Risk,B,Targeted,104,8,1,178.73,0.0769,0.125
+2024-12-20,Loyal Customers,A,Generic,131,10,2,241.35,0.0763,0.2
+2024-12-20,Loyal Customers,B,Targeted,131,13,3,522.71,0.0992,0.2308
+2024-12-20,Potential Loyalists,A,Generic,105,7,1,65.1,0.0667,0.1429
+2024-12-20,Potential Loyalists,B,Targeted,101,9,2,324.65,0.0891,0.2222
+2024-12-20,Champions,A,Generic,155,14,3,362.08,0.0903,0.2143
+2024-12-20,Champions,B,Targeted,134,18,4,241.78,0.1343,0.2222
+2024-12-21,At Risk,A,Generic,80,3,0,0.0,0.0375,0.0
+2024-12-21,At Risk,B,Targeted,94,6,1,81.9,0.0638,0.1667
+2024-12-21,Loyal Customers,A,Generic,134,11,2,178.09,0.0821,0.1818
+2024-12-21,Loyal Customers,B,Targeted,137,15,3,351.17,0.1095,0.2
+2024-12-21,Potential Loyalists,A,Generic,109,7,1,196.52,0.0642,0.1429
+2024-12-21,Potential Loyalists,B,Targeted,95,7,1,187.71,0.0737,0.1429
+2024-12-21,Champions,A,Generic,142,13,3,489.28,0.0915,0.2308
+2024-12-21,Champions,B,Targeted,162,28,7,669.99,0.1728,0.25
+2024-12-22,At Risk,A,Generic,100,5,1,155.55,0.05,0.2
+2024-12-22,At Risk,B,Targeted,91,6,1,120.32,0.0659,0.1667
+2024-12-22,Loyal Customers,A,Generic,113,7,1,161.48,0.0619,0.1429
+2024-12-22,Loyal Customers,B,Targeted,133,15,4,311.2,0.1128,0.2667
+2024-12-22,Potential Loyalists,A,Generic,92,6,1,137.42,0.0652,0.1667
+2024-12-22,Potential Loyalists,B,Targeted,111,12,3,201.72,0.1081,0.25
+2024-12-22,Champions,A,Generic,131,14,3,545.54,0.1069,0.2143
+2024-12-22,Champions,B,Targeted,152,21,4,460.76,0.1382,0.1905
+2024-12-23,At Risk,A,Generic,98,5,1,141.06,0.051,0.2
+2024-12-23,At Risk,B,Targeted,94,7,1,126.85,0.0745,0.1429
+2024-12-23,Loyal Customers,A,Generic,104,7,1,192.58,0.0673,0.1429
+2024-12-23,Loyal Customers,B,Targeted,123,13,3,181.92,0.1057,0.2308
+2024-12-23,Potential Loyalists,A,Generic,102,6,1,71.0,0.0588,0.1667
+2024-12-23,Potential Loyalists,B,Targeted,105,9,2,184.2,0.0857,0.2222
+2024-12-23,Champions,A,Generic,139,11,2,165.72,0.0791,0.1818
+2024-12-23,Champions,B,Targeted,117,16,4,543.23,0.1368,0.25
+2024-12-24,At Risk,A,Generic,90,5,1,63.06,0.0556,0.2
+2024-12-24,At Risk,B,Targeted,93,6,1,181.13,0.0645,0.1667
+2024-12-24,Loyal Customers,A,Generic,120,10,2,182.42,0.0833,0.2
+2024-12-24,Loyal Customers,B,Targeted,117,12,3,471.31,0.1026,0.25
+2024-12-24,Potential Loyalists,A,Generic,113,8,2,346.36,0.0708,0.25
+2024-12-24,Potential Loyalists,B,Targeted,87,7,1,152.99,0.0805,0.1429
+2024-12-24,Champions,A,Generic,133,13,3,204.46,0.0977,0.2308
+2024-12-24,Champions,B,Targeted,147,17,3,309.65,0.1156,0.1765
+2024-12-25,At Risk,A,Generic,109,5,1,139.05,0.0459,0.2
+2024-12-25,At Risk,B,Targeted,106,8,2,136.17,0.0755,0.25
+2024-12-25,Loyal Customers,A,Generic,137,10,2,103.51,0.073,0.2
+2024-12-25,Loyal Customers,B,Targeted,117,12,3,169.68,0.1026,0.25
+2024-12-25,Potential Loyalists,A,Generic,96,6,1,147.84,0.0625,0.1667
+2024-12-25,Potential Loyalists,B,Targeted,122,11,2,182.61,0.0902,0.1818
+2024-12-25,Champions,A,Generic,143,14,3,520.09,0.0979,0.2143
+2024-12-25,Champions,B,Targeted,147,22,5,700.81,0.1497,0.2273
+2024-12-26,At Risk,A,Generic,96,4,0,0.0,0.0417,0.0
+2024-12-26,At Risk,B,Targeted,86,5,1,145.54,0.0581,0.2
+2024-12-26,Loyal Customers,A,Generic,115,8,1,151.57,0.0696,0.125
+2024-12-26,Loyal Customers,B,Targeted,123,12,3,354.3,0.0976,0.25
+2024-12-26,Potential Loyalists,A,Generic,116,7,1,125.82,0.0603,0.1429
+2024-12-26,Potential Loyalists,B,Targeted,139,11,2,216.4,0.0791,0.1818
+2024-12-26,Champions,A,Generic,136,15,3,280.16,0.1103,0.2
+2024-12-26,Champions,B,Targeted,169,29,6,1099.56,0.1716,0.2069
+2024-12-27,At Risk,A,Generic,93,5,1,194.17,0.0538,0.2
+2024-12-27,At Risk,B,Targeted,87,6,1,73.12,0.069,0.1667
+2024-12-27,Loyal Customers,A,Generic,122,10,2,232.13,0.082,0.2
+2024-12-27,Loyal Customers,B,Targeted,113,10,2,202.73,0.0885,0.2
+2024-12-27,Potential Loyalists,A,Generic,112,7,1,116.61,0.0625,0.1429
+2024-12-27,Potential Loyalists,B,Targeted,114,10,2,364.09,0.0877,0.2
+2024-12-27,Champions,A,Generic,154,16,3,327.81,0.1039,0.1875
+2024-12-27,Champions,B,Targeted,151,26,7,1108.25,0.1722,0.2692
+2024-12-28,At Risk,A,Generic,91,3,0,0.0,0.033,0.0
+2024-12-28,At Risk,B,Targeted,99,8,2,144.64,0.0808,0.25
+2024-12-28,Loyal Customers,A,Generic,119,9,2,276.62,0.0756,0.2222
+2024-12-28,Loyal Customers,B,Targeted,116,11,3,323.94,0.0948,0.2727
+2024-12-28,Potential Loyalists,A,Generic,110,7,2,394.22,0.0636,0.2857
+2024-12-28,Potential Loyalists,B,Targeted,107,11,2,386.81,0.1028,0.1818
+2024-12-28,Champions,A,Generic,138,16,3,531.14,0.1159,0.1875
+2024-12-28,Champions,B,Targeted,168,28,6,759.39,0.1667,0.2143
+2024-12-29,At Risk,A,Generic,93,3,0,0.0,0.0323,0.0
+2024-12-29,At Risk,B,Targeted,96,6,1,103.81,0.0625,0.1667
+2024-12-29,Loyal Customers,A,Generic,131,8,2,102.66,0.0611,0.25
+2024-12-29,Loyal Customers,B,Targeted,132,11,3,525.37,0.0833,0.2727
+2024-12-29,Potential Loyalists,A,Generic,118,8,2,297.56,0.0678,0.25
+2024-12-29,Potential Loyalists,B,Targeted,119,12,2,246.29,0.1008,0.1667
+2024-12-29,Champions,A,Generic,128,12,2,204.65,0.0938,0.1667
+2024-12-29,Champions,B,Targeted,132,22,4,773.07,0.1667,0.1818
+2024-12-30,At Risk,A,Generic,91,3,0,0.0,0.033,0.0
+2024-12-30,At Risk,B,Targeted,96,5,1,94.29,0.0521,0.2
+2024-12-30,Loyal Customers,A,Generic,111,9,2,221.53,0.0811,0.2222
+2024-12-30,Loyal Customers,B,Targeted,137,15,3,438.21,0.1095,0.2
+2024-12-30,Potential Loyalists,A,Generic,106,6,1,125.46,0.0566,0.1667
+2024-12-30,Potential Loyalists,B,Targeted,108,11,2,304.79,0.1019,0.1818
+2024-12-30,Champions,A,Generic,140,16,4,531.5,0.1143,0.25
+2024-12-30,Champions,B,Targeted,151,24,5,622.52,0.1589,0.2083
+2024-12-31,At Risk,A,Generic,84,4,0,0.0,0.0476,0.0
+2024-12-31,At Risk,B,Targeted,85,6,1,91.43,0.0706,0.1667
+2024-12-31,Loyal Customers,A,Generic,127,11,2,174.05,0.0866,0.1818
+2024-12-31,Loyal Customers,B,Targeted,128,11,2,181.12,0.0859,0.1818
+2024-12-31,Potential Loyalists,A,Generic,122,9,2,230.15,0.0738,0.2222
+2024-12-31,Potential Loyalists,B,Targeted,127,14,2,306.11,0.1102,0.1429
+2024-12-31,Champions,A,Generic,150,16,4,202.62,0.1067,0.25
+2024-12-31,Champions,B,Targeted,136,21,6,984.93,0.1544,0.2857

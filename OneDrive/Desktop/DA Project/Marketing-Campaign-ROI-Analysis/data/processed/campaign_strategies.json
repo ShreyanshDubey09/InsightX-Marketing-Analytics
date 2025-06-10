@@ -1,0 +1,38 @@
+{
+  "0": {
+    "email_subject_generic": "Check Out Our Latest Offers",
+    "email_subject_targeted": "Exclusive VIP Access - New Premium Collection",
+    "discount_percent": 15,
+    "campaign_type": "Premium Product Launch",
+    "expected_ctr_base": 0.12,
+    "send_frequency": "Weekly",
+    "channel_priority": "Email + SMS + Push"
+  },
+  "1": {
+    "email_subject_generic": "Check Out Our Latest Offers",
+    "email_subject_targeted": "Your Favorites Are Back in Stock!",
+    "discount_percent": 10,
+    "campaign_type": "Product Restock Alert",
+    "expected_ctr_base": 0.09,
+    "send_frequency": "Bi-weekly",
+    "channel_priority": "Email + Push"
+  },
+  "2": {
+    "email_subject_generic": "Check Out Our Latest Offers",
+    "email_subject_targeted": "We Miss You! 20% Off Everything",
+    "discount_percent": 20,
+    "campaign_type": "Win-Back Campaign",
+    "expected_ctr_base": 0.06,
+    "send_frequency": "Monthly",
+    "channel_priority": "Email + Direct Mail"
+  },
+  "3": {
+    "email_subject_generic": "Check Out Our Latest Offers",
+    "email_subject_targeted": "Complete Your Style - Special Member Pricing",
+    "discount_percent": 12,
+    "campaign_type": "Cross-Sell Campaign",
+    "expected_ctr_base": 0.08,
+    "send_frequency": "Bi-weekly",
+    "channel_priority": "Email + Social Media"
+  }
+}

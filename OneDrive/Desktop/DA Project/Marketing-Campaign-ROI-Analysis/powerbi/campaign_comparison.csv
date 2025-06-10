@@ -1,0 +1,9 @@
+segment_name,campaign_version,customers,total_clicks,ctr,total_conversions,conversion_rate,total_revenue,cost_per_customer,roi
+At Risk,Generic,1908,108,0.0566,22,0.0115,1744.87,0.02,4472.51
+At Risk,Targeted,1925,149,0.0774,28,0.0145,2442.13,0.02,6243.19
+Champions,Generic,2296,227,0.0989,78,0.034,5756.17,0.02,12435.21
+Champions,Targeted,2230,305,0.1368,100,0.0448,7293.35,0.02,16252.8
+Loyal Customers,Generic,871,62,0.0712,16,0.0184,2648.76,0.02,15105.28
+Loyal Customers,Targeted,835,82,0.0982,19,0.0228,3258.12,0.02,19409.7
+Potential Loyalists,Generic,994,80,0.0805,17,0.0171,1252.06,0.02,6198.09
+Potential Loyalists,Targeted,941,100,0.1063,31,0.0329,2148.95,0.02,11318.44

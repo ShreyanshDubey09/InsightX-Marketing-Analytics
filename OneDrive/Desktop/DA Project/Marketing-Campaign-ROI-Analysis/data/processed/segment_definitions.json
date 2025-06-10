@@ -1,0 +1,26 @@
+{
+  "0": {
+    "name": "Champions",
+    "description": "High-value, frequent, recent customers",
+    "strategy": "Reward and retain with VIP treatment",
+    "color": "#FF6B6B"
+  },
+  "1": {
+    "name": "Loyal Customers",
+    "description": "Regular customers with good monetary value",
+    "strategy": "Upsell and cross-sell opportunities",
+    "color": "#4ECDC4"
+  },
+  "2": {
+    "name": "At Risk",
+    "description": "Previously valuable but haven't purchased recently",
+    "strategy": "Win-back campaigns with special offers",
+    "color": "#45B7D1"
+  },
+  "3": {
+    "name": "Potential Loyalists",
+    "description": "Recent customers with good frequency",
+    "strategy": "Nurture relationship with targeted content",
+    "color": "#96CEB4"
+  }
+}
